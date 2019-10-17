@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\Functions\Functions\bin\Debug\Functions.exe.config
+C:\Users\opilane\projects\Functions\Functions\bin\Debug\Functions.exe
+C:\Users\opilane\projects\Functions\Functions\bin\Debug\Functions.pdb
+C:\Users\opilane\projects\Functions\Functions\obj\Debug\Functions.csprojAssemblyReference.cache
+C:\Users\opilane\projects\Functions\Functions\obj\Debug\Functions.exe
+C:\Users\opilane\projects\Functions\Functions\obj\Debug\Functions.pdb

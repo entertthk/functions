@@ -1,0 +1,5 @@
+C:\Users\opilane\projects\Functions\myfunction\bin\Debug\myfunction.exe.config
+C:\Users\opilane\projects\Functions\myfunction\bin\Debug\myfunction.exe
+C:\Users\opilane\projects\Functions\myfunction\bin\Debug\myfunction.pdb
+C:\Users\opilane\projects\Functions\myfunction\obj\Debug\myfunction.exe
+C:\Users\opilane\projects\Functions\myfunction\obj\Debug\myfunction.pdb

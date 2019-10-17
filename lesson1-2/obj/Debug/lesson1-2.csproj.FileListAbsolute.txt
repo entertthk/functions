@@ -1,0 +1,5 @@
+C:\Users\opilane\projects\Functions\lesson1-2\bin\Debug\lesson1-2.exe.config
+C:\Users\opilane\projects\Functions\lesson1-2\bin\Debug\lesson1-2.exe
+C:\Users\opilane\projects\Functions\lesson1-2\bin\Debug\lesson1-2.pdb
+C:\Users\opilane\projects\Functions\lesson1-2\obj\Debug\lesson1-2.exe
+C:\Users\opilane\projects\Functions\lesson1-2\obj\Debug\lesson1-2.pdb
